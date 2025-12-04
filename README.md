@@ -4,7 +4,7 @@ How?
 Links:
 - First dataset (Velo/Fussgänger):
     
-    - Source: Verkehrszähldaten Velos und Fussgänger - Basel --> https://data.bs.ch/explore/dataset/100013/?utm_source=chatgpt.com
+    - Source: Kanton Basel-Stadt Verkehrszähldaten Velos und Fussgänger - Basel --> https://data.bs.ch/explore/dataset/100013/?utm_source=chatgpt.com
     
     - Description: Basel-Stadt open dataset providing bicycle and pedestrian counts from automatic counting stations across the city, with hourly timestamps, location coordinates, and traffic counts. The Kanton Basel Stadt did as part of Open Government Data (OGD) make public sector data freely available for use in the public interest, to the extent permitted by law. This includes this Dataset
 
